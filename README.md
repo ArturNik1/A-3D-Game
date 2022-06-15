@@ -1,1 +1,3 @@
 # A-3D-Game
+This is my first project, it's a 3D procedural generated PC game developed using Unity.
+### Soon to be uploaded...
